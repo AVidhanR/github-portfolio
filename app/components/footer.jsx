@@ -24,7 +24,7 @@ function Footer() {
           <div className="flex items-center gap-5">
             <Link
               target="_blank"
-              href="https://github.com/said7388/github-portfolio"
+              href="https://github.com/AVidhanR/github-portfolio"
               className="flex items-center gap-2 uppercase hover:text-primary-icon"
             >
               <IoStar />
@@ -32,7 +32,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/said7388/github-portfolio/fork"
+              href="https://github.com/AVidhanR/github-portfolio/fork"
               className="flex items-center gap-2 uppercase hover:text-primary-icon"
             >
               <CgGitFork />
